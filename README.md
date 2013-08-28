@@ -1,4 +1,4 @@
-# [Webshot v0.1](http://www.webantix.net/)
+# [Webshot v.0.1.2](https://github.com/webantix/webshot)
 
 Webshot is an automated system to collect screenshots of every webpage that Nessus vulnerability scanner has found a web server running on. created and maintained by [Duncan 'Webantix' Alderson](http://twitter.com/webantix).
 
